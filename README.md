@@ -6,6 +6,7 @@ This project focuses on cleaning and analyzing data using SQL. The dataset inclu
 ## 📘 Files
 - `netflix_dataset.csv`: Contains a dataset with dirty data consisting of 12 columns and 8807 rows of netflix movie and tv show information.
 - `Netflix Movie and TV Show.sql`: Contains SQL queries to perform data cleaning and perform analysis on the cleaned data.
+- `Netflix_Cleaned.csv`: Contains a cleaned dataset.
 - `README.md`: Project documentation.
 
 ## ⚙️ Tools 
